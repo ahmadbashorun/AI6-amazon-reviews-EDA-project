@@ -24,7 +24,7 @@ The columns or fields in the data are:
 - `overall`, renamed to `productRating` is the rating of the product
 - `verified`  
 - `reviewerID` is the ID of the reviewer
-- `reviewTime` is the date of the review
+- `reviewTime` is the date of the review (yyyy-mm-dd)
 - `reviewerID` is the ID of the reviewer
 - `asin`, renamed to `productID` is the ID of the product
 - `reviewerName` is the name of the reviewer
