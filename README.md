@@ -9,6 +9,8 @@ Amazon is an e-commerce company where people buy and sell product from variuous 
 * Appliances
 
 ## The Dataset
+The raw data used for this project can be found [here](https://nijianmo.github.io/amazon/index.html).
+The data for each category was extracted as JSON files and converted into respective CSV files using the `pandas` library.
 - [Amazon_Fashion.csv](https://github.com/ahmadbashorun/AI6-amazon-reviews-EDA-project/blob/main/Amazon_Fashio.csv)
     - ..rows, ..columns
 - [beauty_csv](https://github.com/ahmadbashorun/AI6-amazon-reviews-EDA-project/blob/main/beauty.csv)
@@ -28,7 +30,7 @@ The columns or fields in the data are:
 - `size` is the size of the product
 
 
-The data used for this project can be found [here](https://nijianmo.github.io/amazon/index.html).
+
 
 
 
