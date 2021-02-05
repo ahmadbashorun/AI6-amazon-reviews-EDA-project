@@ -34,17 +34,17 @@ The columns or fields in the data are:
 
 ## Methodology
 This project involves deriving meaningful insights from different fields in the data. The steps taken to arrive are these insights are:
-- ### Importing relevant libraries
+- #### Importing relevant libraries
 Some python libraries were imported to enable effective analysis of the data. They are: `pandas` and `numpy` for data cleaning and manipulation, `matplotib` and `seaborn` for visualisations, and; `textblob` for text processing.
-- ### Simple sentiment analysis
+- #### Simple sentiment analysis
 Sentiment analysis was carried out on the reviews. The sentiments were labels as positive, negative and neutral reviews.
 - ### Datetime analysis 
 The date from the `reviewTime` was used to get show trends in the reviews and other part of the data over a given period of time.
-- ### Analysis on the products
+- #### Analysis on the products
 Insights were derived from the products.
-- ### Analysis on the reviewers
+- #### Analysis on the reviewers
 The reviewers of the products were analysed. The data for each category was also [merged](https://github.com/ahmadbashorun/AI6-amazon-reviews-EDA-project/blob/main/Merged%20data.ipynb) to check if certain reviewers reviewed products from more than one category.
-- ### Analysis on product ratings
+- #### Analysis on product ratings
 The ratings of the products were between 1 and 5. These ratings were analysed and were also correlated to the amount of reviews as well as the sentiments.
 
 
