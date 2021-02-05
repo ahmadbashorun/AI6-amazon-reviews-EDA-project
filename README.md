@@ -32,6 +32,15 @@ The columns or fields in the data are:
 - `size` is the size of the product
 
 
+## Methodology
+This project involves deriving meaningful insights from different fields in the data. The steps taken to arrive are these insights are:
+- #### Importing relevant libraries: Some python libraries were imported to enable effective analysis of the data. They are: `pandas` and `numpy` for data cleaning and manipulation, `matplotib` and `seaborn` for visualisations, and; `textblob` for text processing.
+- Simple sentient analysis
+- Datetime analysis
+- Analysis on the products
+- Analysis on the reviewers
+- Analysis on product ratings
+
 
 
 
