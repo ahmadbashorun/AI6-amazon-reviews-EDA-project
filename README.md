@@ -51,6 +51,7 @@ The ratings of the products were between 1 and 5. These ratings were analysed an
 
 
 
+
 The full code is contained in this [notebook](https://github.com/ahmadbashorun/AI6-amazon-reviews-EDA-project/blob/main/Exploratory-data-analysis.ipynb)
 
 
