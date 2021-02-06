@@ -1,6 +1,6 @@
 # Exploratory Data analysis on reviews of Amazon products from Fashion, Beauty and Appliance categories.
 
-This is one of the the capstone projects for the 6th Data Science Cohort of <a href="https://www.aisaturdayslagos.com/" target="_blank">AI saturdays Lagos</a>. Check their Githb [here](https://github.com/AISaturdaysLagos).
+This is one of the the capstone projects for the 6th Data Science Cohort of <a href="https://www.aisaturdayslagos.com/" target="_blank">AI saturdays Lagos</a>. Check their Github [here](https://github.com/AISaturdaysLagos).
 
 
 ## Project Overview
@@ -13,11 +13,11 @@ Amazon is an e-commerce company where people buy and sell product from various c
 ## The Dataset
 The raw data used for this project can be found [here](https://nijianmo.github.io/amazon/index.html). 
 The data for each category was extracted as JSON files and converted into respective CSV files using the `pandas` library. The full data extraction process is shown in this [notebook](https://github.com/ahmadbashorun/AI6-amazon-reviews-EDA-project/blob/main/Data%20extraction/Data_extraction.ipynb)
-- [Amazon_Fashion.csv](https://github.com/ahmadbashorun/AI6-amazon-reviews-EDA-project/blob/main/Amazon_Fashio.csv)
+- [Amazon_Fashion.csv](https://github.com/ahmadbashorun/AI6-amazon-reviews-EDA-project/blob/main/Data%20extraction/Amazon_Fashio.csv)
     - 3176 rows, 10 columns
-- [beauty_csv](https://github.com/ahmadbashorun/AI6-amazon-reviews-EDA-project/blob/main/beauty.csv)
+- [beauty_csv](https://github.com/ahmadbashorun/AI6-amazon-reviews-EDA-project/blob/main/Data%20extraction/beauty.csv)
     - 5269 rows, 11 columns
-- [appliances_csv](https://github.com/ahmadbashorun/AI6-amazon-reviews-EDA-project/blob/main/appliances.csv)
+- [appliances_csv](https://github.com/ahmadbashorun/AI6-amazon-reviews-EDA-project/blob/main/Data%20extraction/appliances.csv)
     - 2277 rows, 8 columns
  
 The columns or fields in the data are:
@@ -52,7 +52,9 @@ The ratings of the products were between 1 and 5. These ratings were analysed an
 
 
 
-The full code is contained in this [notebook](https://github.com/ahmadbashorun/AI6-amazon-reviews-EDA-project/blob/main/Exploratory-data-analysis.ipynb)
+The full code is contained in this [notebook](https://github.com/ahmadbashorun/AI6-amazon-reviews-EDA-project/blob/main/Exploratory_data_analysis.ipynb)
+
+The presentation for the this project can be viewed [here](https://docs.google.com/presentation/d/10TDFLftXiyslDUhcs6tsrhxGGjjojHUwgDK3p46nrPc/edit?usp=sharing)
 
 
 
